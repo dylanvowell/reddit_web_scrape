@@ -17,3 +17,9 @@ import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
 ```
 
+## Next Steps
+
+- [ ] create another dataframe with subreddit, upvote/downvote information, and timestamps in the "hot" category to identify ideal times to post for maximum interaction.
+- [ ] visualize the post time to total upvotes/downvotes
+- [ ] visualize different subreddits' most active time periods
+

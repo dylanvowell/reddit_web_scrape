@@ -1,1 +1,0 @@
-client_secret = "26NdjuaWX_EghggDpD3JExP0NWUSYA"
